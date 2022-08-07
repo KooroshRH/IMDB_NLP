@@ -1,2 +1,4 @@
 # IMDB_NLP
-A project for comparing different NLP models with Flatten, LSTM, GRU, and Conv1D architectures on IMBD reviews dataset
+To get step by step explanation about this model and it's training settings, please refer to the [notebook](https://github.com/KoroshRH/IMDB_NLP/blob/main/IMDB_GRU_LSTM_Conv1D.ipynb) and run it on Google Colab.  
+
+> NOTE: This project was a part of TensorFlow course from **DeepLearning.AI**
